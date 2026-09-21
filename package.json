@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "description": "Mini B2B RFQ Marketplace - Full Stack MERN Application",
   "scripts": {
-    "install-all": "cd server && npm install && cd ../client && npm install",
-    "server": "cd server && npm run dev",
-    "client": "cd client && npm run dev",
-    "seed": "cd server && npm run seed"
+    "install-all": "cd backend && npm install && cd ../frontend && npm install",
+    "backend": "cd backend && npm run dev",
+    "frontend": "cd frontend && npm run dev",
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm run dev",
+    "seed": "cd backend && npm run seed"
   },
   "keywords": ["mern", "rfq", "b2b", "marketplace", "react", "express", "mongodb"],
   "author": "Ayush Kumar Choudhary",
