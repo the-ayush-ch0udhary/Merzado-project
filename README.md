@@ -4,6 +4,13 @@ A full-stack **MERN** (MongoDB, Express.js, React, Node.js) web application wher
 
 ---
 
+## 🌐 Live Deployment
+
+- **Frontend (Vercel)**: [https://frontend-one-gamma-56.vercel.app](https://frontend-one-gamma-56.vercel.app/marketplace)
+- **Backend API (Render)**: [https://merzado-project.onrender.com](https://merzado-project.onrender.com/api/health)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: React 18, Vite, React Router v6, Axios, Lucide Icons, Vanilla CSS (Light/Dark themes, solid design, zero glassmorphism).
@@ -88,3 +95,6 @@ Use the **1-Click Demo Login** buttons on the login page or enter credentials ma
 - **Candidate Name**: Ayush Kumar Choudhary
 - **Assignment**: Full-Stack Mini B2B RFQ Marketplace
 - **Stack**: MERN (MongoDB, Express.js, React, Node.js)
+- **Live Demo**: [https://frontend-one-gamma-56.vercel.app](https://frontend-one-gamma-56.vercel.app/marketplace)
+- **Live API**: [https://merzado-project.onrender.com](https://merzado-project.onrender.com/api/health)
+- **GitHub Repository**: [https://github.com/the-ayush-ch0udhary/Merzado-project](https://github.com/the-ayush-ch0udhary/Merzado-project)
